@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zavd35</string>
+    <string name="question1">Питання 1:\nСкільки планет в сонячній системі?</string>
+    <string name="question2">Питання 2:\nЯка найбільша ріка в Україні?</string>
+    <string name="question3">Питання 3:\nЯка найвища гора на землі?</string>
+    <string name="btn_next">Наступне питання</string>
+    <string name="btn_restart">Почати спочатку</string>
+</resources>
